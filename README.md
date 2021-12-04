@@ -8,15 +8,18 @@ Dataset
 ============
 We used dataset of movie ratings provided by movielens, which contains movie id, user id, ratings and timestamp.
 
-**Name** : ml-latest-small 
+**Name** : ml-latest-small, ml-100k
 
 
 **Link** : https://grouplens.org/datasets/movielens/
 
-Technique Used
+Techniques Used
 ==================
-we used matrix factorization technique by svd.
+Matrix factorization
+- SVD
+- Weighted matrix factorization
 
 Observations
 ==================
-We achieved root mean square error of 1.0018 when we take latent features(k) as 5 for svd. 
+- We achieved root mean square error of 1.0018 when we take latent features(k) as 5 for svd. 
+- 
