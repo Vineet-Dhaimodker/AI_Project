@@ -19,7 +19,7 @@ Matrix factorization
 - SVD
 - Weighted matrix factorization
 
-Observations
+Colab Link
 ==================
-- We achieved root mean square error of 1.0018 when we take latent features(k) as 5 for svd. 
-- 
+- https://colab.research.google.com/drive/1W8vhRSFFPjatGcI4Bk3QysVa1do94cGN?usp=sharing
+- https://colab.research.google.com/drive/1YqGZFSYv9AAkaaL70TsMp-ISoaG69Px6?usp=sharing
