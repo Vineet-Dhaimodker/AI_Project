@@ -21,5 +21,5 @@ Matrix factorization
 
 Colab Link
 ==================
-- https://colab.research.google.com/drive/1W8vhRSFFPjatGcI4Bk3QysVa1do94cGN?usp=sharing
-- https://colab.research.google.com/drive/1YqGZFSYv9AAkaaL70TsMp-ISoaG69Px6?usp=sharing
+- [SVD](https://colab.research.google.com/drive/1W8vhRSFFPjatGcI4Bk3QysVa1do94cGN?usp=sharing)
+- [TFRS](https://colab.research.google.com/drive/1YqGZFSYv9AAkaaL70TsMp-ISoaG69Px6?usp=sharing)
